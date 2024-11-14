@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praneeth Goud</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFBB8AED&width=435&lines=Hi...Myself+Praneeth+Goud)](https://git.io/typing-svg)
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranee123&label=Profile%20views&color=0e75b6&style=flat" alt="pranee123" /> </p>
