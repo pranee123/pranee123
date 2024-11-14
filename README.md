@@ -7,16 +7,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/praneeth-goud-" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/praneeth-goud-"  rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" />
   </a>
-  <a href="https://pranee123.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <a href="https://pranee123.github.io/Portfolio/"  rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=social&logo=github&logoColor=white" alt="Portfolio" width="150" />
   </a>
-  <a href="https://www.hackerrank.com/profile/praneethgoud2510" target="_blank" rel="noreferrer">
+  <a href="https://www.hackerrank.com/profile/praneethgoud2510"  rel="noreferrer">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=social&logo=hackerrank&logoColor=white" alt="Hackerrank" width="150" />
   </a>
-  <a href="https://github.com/pranee123" target="_blank" rel="noreferrer">
+  <a href="https://github.com/pranee123" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=white" alt="GitHub" width="150" />
   </a>
 </p>
