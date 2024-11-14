@@ -16,20 +16,19 @@
    <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/86e7137b-907c-4d8c-9c10-ecc44488def9" alt="Python" width="700" height="200"/></a>
+<img src="https://github.com/user-attachments/assets/86e7137b-907c-4d8c-9c10-ecc44488def9" alt="Python" width="700" height="250"/></a>
   
 </p>
 
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranee123&show_icons=true&locale=en&layout=compact" alt="pranee123" /></p>
-
-# <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranee123&show_icons=true&locale=en" alt="pranee123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranee123&" alt="pranee123" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranee123&show_icons=true&locale=en&layout=compact" alt="pranee123"/>     
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranee123&" alt="pranee123"/> </p> 
 
 ---
 
