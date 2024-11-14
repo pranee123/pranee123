@@ -1,32 +1,32 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFBB8AED&width=435&lines=Hi...Myself+Praneeth+Goud)](https://git.io/typing-svg)
+---
 <h3 align="center">A passionate Data Scientist from India</h3>
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranee123&label=Profile%20views&color=0e75b6&style=flat" alt="pranee123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranee123" alt="pranee123" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/praneeth-goud-">
+  <a href="https://www.linkedin.com/in/praneeth-goud-" target="blank" rel="noreferrer" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://pranee123.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <a href="https://pranee123.github.io/Portfolio/" target="blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/profile/praneethgoud2510" target="_blank" rel="noreferrer">
+  <a href="https://www.hackerrank.com/profile/praneethgoud2510" target="blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="Hackerrank" width="40" />
   </a>
-  <a href="https://github.com/pranee123" target="_blank" rel="noreferrer">
+  <a href="https://github.com/pranee123" target="blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" width="40" />
   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="Python" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+  <a href="https://www.tensorflow.org" target="Tensorflow" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
