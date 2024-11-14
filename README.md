@@ -7,17 +7,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/praneeth-goud-"  rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" />
+  <a href="https://www.linkedin.com/in/praneeth-goud-">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://pranee123.github.io/Portfolio/"  rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=social&logo=github&logoColor=white" alt="Portfolio" width="150" />
+  <a href="https://pranee123.github.io/Portfolio/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/profile/praneethgoud2510"  rel="noreferrer">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=social&logo=hackerrank&logoColor=white" alt="Hackerrank" width="150" />
+  <a href="https://www.hackerrank.com/profile/praneethgoud2510" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="Hackerrank" width="40" />
   </a>
-  <a href="https://github.com/pranee123" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=white" alt="GitHub" width="150" />
+  <a href="https://github.com/pranee123" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" width="40" />
   </a>
 </p>
 
@@ -67,3 +67,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranee123&" alt="pranee123" /></p>
 
+---
+
+Thank you for visiting my profile! 🚀 Feel free to reach out and connect with me on my various platforms. Let's collaborate and make great things happen together! 🌟
